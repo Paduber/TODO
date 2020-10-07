@@ -5,3 +5,8 @@
 php artisan migrate
 <br>
 php artisan db:seed
+
+<br><br>
+Демо:
+<br>
+http://etagitodo.herokuapp.com/
