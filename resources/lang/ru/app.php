@@ -25,6 +25,11 @@ return [
     'Remember Me' => 'Запомнить меня',
     'Login me' => 'Войти',
     'Register' => 'Зарегестрироваться',
+    'Name' => 'Имя',
+    'Surname' => 'Фамилия',
+    'Middle name' => 'Отчество',
+    'Confirm Password' => 'Подтвердить пароль',
+    'Leader id' => 'Руководитель',
 
 
     'Save changes' => 'Сохранить',
